@@ -8,3 +8,4 @@ Automated and verified release changelog.
 - [2025-01-28 09:35] perf(stream): optimize memory buffer for multi-gigabyte zip extractions
 - [2025-02-04 09:31] feat(ui): format conversation thread viewer with responsive layout
 - [2025-02-08 09:44] refactor(model): decouple message schema validation from render pipeline
+- [2025-02-13 09:32] test(parser): verify timestamp normalization across varying export formats
