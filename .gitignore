@@ -1,0 +1,12 @@
+# Local dependencies
+node_modules/
+package-lock.json
+
+# Local user configurations
+config.json
+custom_names.json
+
+# Log files and Python cache
+*.log
+__pycache__/
+
